@@ -17,6 +17,10 @@
   </a>
 </p>
 
+[![Meric's GitHub Streak](https://streak-stats.demolab.com/?user=mericcintosun&theme=react&border=61dafb&stroke=61dafb&fire=ff6e96)](https://git.io/streak-stats)
+
+
+
 - 🌱 I’m currently learning **Next.js, Solidity, Go, Ethers.js**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@mericcintosunn)
@@ -51,10 +55,8 @@
 
 ---
 
-
----
-
 [![Meric's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mericcintosun&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -126,13 +128,11 @@
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mericcintosun&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mericcintosun&show_icons=true&locale=en&layout=compact&theme=react&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mericcintosun&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mericcintosun&show_icons=true&locale=en&theme=react&title_color=61dafb&icon_color=61dafb&text_color=ffffff&
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mericcintosun&" alt="GitHub Streak" />
-</p>
+
+
