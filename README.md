@@ -27,7 +27,7 @@
 
 - 📫 How to reach me: **mericcintosunn@gmail.com**
 
-- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/mericcintosun/)
+- 📄 Know about my experiences: [LinkedIn]((https://www.linkedin.com/in/meric-cintosun/))
 
 ---
 
