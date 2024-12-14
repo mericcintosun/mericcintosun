@@ -25,7 +25,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@mericcintosunn)
 
-- 📫 How to reach me: **mericcintosun@gmail.com**
+- 📫 How to reach me: **mericcintosunn@gmail.com**
 
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/mericcintosun/)
 
